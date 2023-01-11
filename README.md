@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning penetration testing
 - 📫 How to reach me: shahmadhav29@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=GreeenCat &theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreeenCat)](https://github.com/anuraghazra/github-readme-stats)

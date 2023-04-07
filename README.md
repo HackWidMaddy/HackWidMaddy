@@ -2,7 +2,7 @@
 <h3 align="center">🔰 With Great Power Comes great Responsibility that's why I am Created 🔰</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/yOn8FbGcvrAAAAAd/hacker-hackerman.gif" alt="Mad Hacker 😂" width="100%">
+  <img src="https://media.tenor.com/yOn8FbGcvrAAAAAd/hacker-hackerman.gif" alt="Mad Hacker 😂" width="100%" height="300px">
 </p>
 
 

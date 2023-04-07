@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Madhav Shah</h1>
 <h3 align="center">🔰 With Great Power Comes great Responsibility that's why I am Created 🔰</h3>
 
+<p align="center">
+  <img src="https://media.tenor.com/yOn8FbGcvrAAAAAd/hacker-hackerman.gif" alt="Mad Hacker 😂" width="100%">
+</p>
+
+
+<br>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greeencat&label=Profile%20views&color=0e75b6&style=flat" alt="greeencat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greeencat" alt="greeencat" /></a> </p>

@@ -43,7 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greeencat&show_icons=true&locale=en&layout=compact" alt="greeencat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeencat&show_icons=true&locale=en" alt="greeencat" /></p>
+<!--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeencat&show_icons=true&locale=en" alt="greeencat" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greeencat&" alt="greeencat" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greeencat&" alt="greeencat" /></p>-->
 

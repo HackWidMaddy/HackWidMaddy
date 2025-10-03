@@ -1,34 +1,219 @@
-<h1 align="center">Hi 👋, I'm Madhav Shah</h1>
-<h3 align="center">A H@cker Wid Mission</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackwidmaddy&label=Profile%20views&color=0e75b6&style=flat" alt="hackwidmaddy" /> </p>
+```
+░▒▓██████████████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░     
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓███████▓▒░   ░▒▓█▓▒░     
+                                                                                          
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackwidmaddy" alt="hackwidmaddy" /></a> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+ETHICAL+HACKER;%3E+RED+TEAM+SPECIALIST;%3E+MALWARE+RESEARCHER;%3E+CVE+HUNTER;%3E+NASA+HALL+OF+FAME)](https://git.io/typing-svg)
+  
+</div>
 
-- 🔭 I’m currently working on **Completing My Mission**
+```bash
+┌─[madhav@cyberops]─[~]
+└──╼ $> whoami
+```
 
-- 🤝 I’m looking for help with **Your Support （＾∀＾●）ﾉｼ**
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=hackwidmaddy&label=INTRUSIONS%20DETECTED&color=red&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/hackwidmaddy?color=red&label=AGENTS%20RECRUITED&style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/hackwidmaddy?color=red&label=EXPLOITS%20STARRED&style=for-the-badge)
+  
+</div>
 
-- 💬 Ask me about **Tech, Cyber, Networking**
+## 🎯 [CLASSIFIED] MISSION STATUS
 
-- ⚡ Fun fact **I do a lot of random stuffs**
+```c
+typedef struct hacker_profile {
+    char *callsign;
+    char *clearance_level;
+    char *specialization[4];
+    int cve_discoveries;
+    char *hall_of_fame[3];
+    int students_mentored;
+} hacker_t;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hackwidmaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackwidmaddy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hackwidmaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hackwidmaddy" height="30" width="40" /></a>
-<a href="https://instagram.com/hackwidmaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hackwidmaddy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hackwidmaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackwidmaddy" height="30" width="40" /></a>
-<a href="https://discord.gg/hackwidmaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hackwidmaddy" height="30" width="40" /></a>
-</p>
+hacker_t madhav = {
+    .callsign = "HackWidMaddy",
+    .clearance_level = "TOP SECRET",
+    .specialization = {"Red Teaming", "Malware Dev", "CVE Research", "Ethical Hacking"},
+    .cve_discoveries = 1, // CVE-2024-57522
+    .hall_of_fame = {"NASA", "WHO", "U.S. Government"},
+    .students_mentored = 330 // Target: 50,000+
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🔴 [ACTIVE OPERATIONS]
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hackwidmaddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hackwidmaddy" /></a></p><br><br>
-<br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackwidmaddy&show_icons=true&locale=en&layout=compact" alt="hackwidmaddy" /></p>
+```yaml
+current_missions:
+  - name: "Operation Red Dragon"
+    status: "CLASSIFIED"
+    progress: "██████████░░░░░░░░░░ 50%"
+  
+  - name: "Malware Framework Development"
+    status: "IN_PROGRESS"
+    progress: "████████████████░░░░ 80%"
+    
+  - name: "CVE Hunter Protocol"
+    status: "ONGOING"
+    progress: "████████░░░░░░░░░░░░ 40%"
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackwidmaddy&show_icons=true&locale=en" alt="hackwidmaddy" /></p>
+## ⚡ [SYSTEM CAPABILITIES]
 
+<div align="center">
+
+```
+     ╔═══════════════════════════════════════════════════════╗
+     ║                   OFFENSIVE ARSENAL                   ║
+     ╠═══════════════════════════════════════════════════════╣
+     ║ [████████████████████████████████████████] Python    ║
+     ║ [██████████████████████████████████░░░░░░] Bash      ║
+     ║ [████████████████████████████░░░░░░░░░░░░] C/C++     ║
+     ║ [██████████████████████████████████░░░░░░] Linux     ║
+     ║ [████████████████████████████████████████] Docker    ║
+     ║ [██████████████████████████████░░░░░░░░░░] AWS       ║
+     ║ [████████████████████████████████████░░░░] SQL       ║
+     ║ [██████████████████████████████████████░░] Web Tech  ║
+     ╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## 🛡️ [ACHIEVEMENTS UNLOCKED]
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=hackwidmaddy&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+```bash
+┌─[achievements@cyberops]─[/hall_of_fame]
+└──╼ $> cat credentials.txt
+```
+
+🏆 **HALL OF FAME STATUS**
+- 🚀 **NASA Hall of Fame** - Space-grade security researcher
+- 🌍 **WHO Letter of Appreciation** - Global health cybersecurity
+- 🏛️ **U.S. Government Hall of Fame** - National security contributions
+- 🔍 **CVE-2024-57522** - Zero-day discovery and responsible disclosure
+- 📊 **Top 2% TryHackMe** - Elite red team operator
+
+```bash
+┌─[network@cyberops]─[/social_engineering]
+└──╼ $> establish_secure_channels
+```
+
+<div align="center">
+
+### 📡 [ESTABLISH SECURE CONNECTION]
+
+[![Twitter](https://img.shields.io/badge/Twitter-@hackwidmaddy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hackwidmaddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HackWidMaddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hackwidmaddy)
+[![YouTube](https://img.shields.io/badge/YouTube-HackWidMaddy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/hackwidmaddy)
+[![Discord](https://img.shields.io/badge/Discord-HackWidMaddy-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hackwidmaddy)
+[![Instagram](https://img.shields.io/badge/Instagram-@hackwidmaddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hackwidmaddy)
+
+</div>
+
+## 🧰 [EXPLOIT TOOLKIT]
+
+```bash
+┌─[tools@redteam]─[/arsenal]
+└──╼ $> ls -la | grep -E "(exploit|framework|scanner)"
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=red)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=red)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=red)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red)
+
+</div>
+
+## 📊 [THREAT INTELLIGENCE]
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackwidmaddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwidmaddy&layout=compact&langs_count=8&theme=radical"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hackwidmaddy&theme=radical)
+  
+</div>
+
+## 💻 [COMMAND & CONTROL]
+
+```bash
+┌─[madhav@cyberops]─[~]
+└──╼ $> cat /etc/shadow | grep -E "(mission|objectives)"
+```
+
+```diff
+! MISSION OBJECTIVES
++ [✓] Achieve NASA Hall of Fame Status
++ [✓] Discover and report CVE-2024-57522
++ [✓] Mentor 330+ future ethical hackers
++ [✓] Establish HackWidMaddy community
+- [ ] Scale community to 50,000+ students
+- [ ] Develop advanced malware research frameworks
+- [ ] Expand red team operations globally
+- [ ] Complete B.Tech in Cyber Engineering
+```
+
+## 🔐 [SECURE FUNDING CHANNEL]
+
+```bash
+┌─[support@cyberops]─[/funding]
+└──╼ $> echo "Support the mission: enable advanced research"
+```
+
+<div align="center">
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Support_Mission-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hackwidmaddy)
+  
+</div>
+
+---
+
+<div align="center">
+  
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│     "In a world of zeros and ones, I am the exception"     │
+│                          - HackWidMaddy                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Snake animation](https://github.com/hackwidmaddy/hackwidmaddy/blob/output/github-contribution-grid-snake.svg)
+
+**🔺 Last Updated:** `SELECT NOW()` **|** **⚡ Status:** `ONLINE` **|** **🎯 Target:** `CLASSIFIED`
+
+</div>
+
+```bash
+┌─[session@terminated]─[~]
+└──╼ $> exit
+Connection closed by foreign host.
+```
